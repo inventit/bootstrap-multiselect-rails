@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Integrate bootstrap-multiselect assets in your Rails asset pipeline}
   spec.description   = %q{Wrap bootstrap-multiselect and provide the assets as a gem}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/inventit/bootstrap-multiselect-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
